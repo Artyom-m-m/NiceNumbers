@@ -1,7 +1,6 @@
-using Xunit;
 using NiceNumbers.Calculators;
 
-namespace Tests
+namespace NiceNumbersTests
 {
     public sealed class NumeralSystemNumeralSystemCalculationHelperTests
     {
