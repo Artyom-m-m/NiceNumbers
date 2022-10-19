@@ -1,5 +1,5 @@
-using Xunit;
 using NiceNumbers.Calculators;
+using Xunit;
 
 namespace NiceNumbersTests
 {
